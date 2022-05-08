@@ -14,7 +14,7 @@ img:hover {
     }
 
 a:visited{
-    text-decoration: none;
+    text-decoration: black;
     color: black;
 }
 a{
